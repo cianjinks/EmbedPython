@@ -1,3 +1,0 @@
-/home/cianjinks/Python/EmbedPython/build/CMakeFiles/rebuild_cache.dir
-/home/cianjinks/Python/EmbedPython/build/CMakeFiles/edit_cache.dir
-/home/cianjinks/Python/EmbedPython/build/CMakeFiles/EmbedPython.dir

@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/home/cianjinks/Python/EmbedPython/build",
-  "command": "/usr/bin/cc  -I/home/cianjinks/Python/EmbedPython/src -I/usr/include/python3.8  -g   -o CMakeFiles/EmbedPython.dir/src/spammodule.c.o   -c /home/cianjinks/Python/EmbedPython/src/spammodule.c",
-  "file": "/home/cianjinks/Python/EmbedPython/src/spammodule.c"
-}
-]
